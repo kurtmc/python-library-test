@@ -16,9 +16,6 @@
     email = "kurt@linux.com"
     name = "Kurt McAlpine"
 
-  [project.license]
-    file = "LICENSE"
-
   [project.urls]
     "Bug Tracker" = "https://github.com/kurtmc/python-library-test/issues"
     Homepage = "https://github.com/kurtmc/python-library-test"
