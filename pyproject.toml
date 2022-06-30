@@ -10,7 +10,7 @@
   name = "python-library-test"
   readme = "README.md"
   requires-python = ">=3.8"
-  version = "0.0.3"
+  version = "0.0.4"
 
   [[project.authors]]
     email = "kurt@linux.com"
